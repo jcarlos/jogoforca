@@ -1,0 +1,5 @@
+O objetivo desse projeto é brincar com o PHP, Git, Simpletest, TDD e JQuery para fazer um jogo da forca.
+
+Tenho diversas idéias para adicionar no projeto e aos poucos vou detalhando mais.
+
+Para brincar com o projeto, copie o arquivo system/application/database-sample.php para system/application/database.php e preencha as informações de usuário e senha do banco de dados no database.php.
